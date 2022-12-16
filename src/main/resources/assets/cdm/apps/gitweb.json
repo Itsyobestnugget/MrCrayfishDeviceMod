@@ -1,6 +1,6 @@
 {
     "name": "GitWeb",
-    "author": "MrCrayfish, MinecraftDoodler",
+    "author": "Moogle LLC.",
     "description": "GitWeb is a web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.",
     "version": "0.0.2",
     "icon": "cdm:textures/app/icon/gitweb.png",
