@@ -29,42 +29,43 @@ item.plastic_frame.name=Plastic Frame
 item.wheel.name=Wheel
 
 app.cdm.settings.name=Settings
-app.cdm.settings.Author=MrCrayfish
+app.cdm.settings.desc=Moogles Officail settings app (now BUILT IN!!!)
+app.cdm.settings.Author=Moogle LLC.
 
-app.cdm.app_store.name=Application Market
-app.cdm.app_store.desc=null
-app.cdm.app_store.Author=MrCrayfish
+app.cdm.app_store.name=Moogle Play Store
+app.cdm.app_store.desc=Moogles Official AppStore
+app.cdm.app_store.Author=Moogle LLC.
 
-app.cdm.bank.name=Bank
-app.cdm.bank.desc=The official bank application for the Device Mod. Allow you to convert emeralds into digital currency.
-app.cdm.bank.author=MrCrayfish
+app.cdm.bank.name=BankMe
+app.cdm.bank.desc=The official bank application for MOOGLE BANKS. Allow you to convert emeralds into digital currency.
+app.cdm.bank.author=Moogle LLC.
 
 app.cdm.example.name=UI Components
-app.cdm.example.author=MrCrayfish
+app.cdm.example.author=Moogle LLC.
 
 app.cdm.file_browser.name=File Browser
-app.cdm.file_browser.author=MrCrayfish
+app.cdm.file_browser.author=Moogle LLC.
 
 app.cdm.note_stash.name=Note Stash
 app.cdm.note_stash.desc=The official note application for the Device Mod. Allows you to store simple notes.
-app.cdm.note_stash.author=MrCrayfish
+app.cdm.note_stash.author=Moogle LLC.
 
 app.cdm.pixel_painter.name=Pixel Painter
-app.cdm.pixel_painter.author=MrCrayfish
+app.cdm.pixel_painter.author=Moogle LLC.
 
-app.cdm.ender_mail.name=EnderMail
-app.cdm.ender_mail.desc=The official email application for the Device Mod. Allows you to send emails to other players on the server.
-app.cdm.ender_mail.author=MrCrayfish
+app.cdm.ender_mail.name=MooMail
+app.cdm.ender_mail.desc=The official email application for the mod. Allows you to send emails to other players on the server.
+app.cdm.ender_mail.author=Moogle LLC.
 
 app.cdm.boat_racers.name=Boat Racers
-app.cdm.boat_racers.author=MrCrayfish
+app.cdm.boat_racers.author=Moogle LLC.
 
 app.cdm.mine_bay.name=MineBay
-app.cdm.mine_bay.author=MrCrayfish
+app.cdm.mine_bay.author=Moogle LLC.
 
-message.select_router=Now select a router to connect this device to.
-message.invalid_cable=Please select a device first before adding it to this router.
-message.router_max_devices=The maximum amount of devices has been reached for this router.
-message.device_already_connected=The selected device is already connected to this router.
-message.successful_connection=Successfully connected the selected device to this router.
-message.successful_registered=Successfully registered the selected device to this router.
+message.select_router=Lets link up! Use the PLACE button to Link the device and the router
+message.invalid_cable=Please press the PLACE button to begin the Link Up! process
+message.router_max_devices=Oops... Looks like there isnt enough slots try using a different router
+message.device_already_connected=Hmm... it seems this device is already connected to your router no sense in Re-Linking them
+message.successful_connection=Linked Up! Your device is now Linked to your router
+message.successful_registered=Registered. this device was successfully registered to this router.
